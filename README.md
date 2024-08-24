@@ -9,10 +9,11 @@ I am using JsonPlaceholder and changes made like edit and delete dont really ref
 
 ## Screenshot
 
-![App Screenshots](https://firebasestorage.googleapis.com/v0/b/inzzisuites.appspot.com/o/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-08-24%20at%2021.37.48.png?alt=media&token=aa257405-ed7e-4652-b54c-6d886df4e33e)
+<img src="https://firebasestorage.googleapis.com/v0/b/inzzisuites.appspot.com/o/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-08-24%20at%2021.37.48.png?alt=media&token=aa257405-ed7e-4652-b54c-6d886df4e33e" alt="App Screenshots" width="300"/>
 
-![App Screenshots](https://firebasestorage.googleapis.com/v0/b/inzzisuites.appspot.com/o/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-08-24%20at%2021.37.52.png?alt=media&token=5353cfd8-0e06-4174-9137-ce425d5db816)
+<img src="https://firebasestorage.googleapis.com/v0/b/inzzisuites.appspot.com/o/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-08-24%20at%2021.37.52.png?alt=media&token=5353cfd8-0e06-4174-9137-ce425d5db816" alt="App Screenshots" width="300"/>
 
-![App Screenshots](https://firebasestorage.googleapis.com/v0/b/inzzisuites.appspot.com/o/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-08-24%20at%2021.37.55.png?alt=media&token=e87a6626-2e24-4a7e-8fc6-628446f50c06)
+<img src="https://firebasestorage.googleapis.com/v0/b/inzzisuites.appspot.com/o/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-08-24%20at%2021.37.55.png?alt=media&token=e87a6626-2e24-4a7e-8fc6-628446f50c06" alt="App Screenshots" width="300"/>
 
-![App Screenshots](https://firebasestorage.googleapis.com/v0/b/inzzisuites.appspot.com/o/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-08-24%20at%2021.37.59.png?alt=media&token=3ebc39fa-c41d-4338-b7f3-35dce53eeed3)
+<img src="https://firebasestorage.googleapis.com/v0/b/inzzisuites.appspot.com/o/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-08-24%20at%2021.37.59.png?alt=media&token=3ebc39fa-c41d-4338-b7f3-35dce53eeed3" alt="App Screenshots" width="300"/>
+
